@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=220&section=header&text=Irsa%20Irshad&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=CS%20Student%20%7C%20Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=55&descSize=18" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Building+Full+Stack+Web+Apps;Exploring+AI+%2F+ML+Models;Crafting+Cross-Platform+Mobile+Apps;Currently+Interning+%40+Developers+Hub+%26+Falcon+Swift" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Building+Full+Stack+Web+Apps;Building+RAG+%26+AI+Chatbots;Exploring+AI+%2F+ML+%2F+Blockchain;Currently+Interning+%40+Developers+Hub+%26+Falcon+Swift" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -24,14 +24,23 @@ const irsa = {
   title: "CS Student | Full Stack Developer | AI/ML Enthusiast | Mobile App Developer",
   university: "COMSATS University Islamabad, Vehari Campus (2023 - 2027)",
   stack: {
-    languages: ["Python", "Java", "C++", "JavaScript", "Dart", "PHP", "Solidity", "SQL"],
+    languages: ["Python", "Java", "C++", "JavaScript", "TypeScript", "Dart", "PHP", "Solidity", "SQL"],
     frontend: ["React.js", "Next.js", "Flutter", "HTML5", "CSS3", "Bootstrap", "Tailwind CSS"],
-    backend: ["Node.js", "Express.js", "NestJS", "ASP.NET", "Django", "Flask"],
+    backend: ["Node.js", "Express.js", "NestJS", "FastAPI", "ASP.NET", "Django", "Flask"],
     databases: ["MongoDB", "MySQL", "SQL Server", "PostgreSQL", "Firebase", "SQLite"],
-    aiMl: ["TensorFlow", "Keras", "Scikit-learn", "CNN", "LSTM", "NLTK", "Power BI"],
+    aiMl: ["TensorFlow", "Keras", "Scikit-learn", "CNN", "LSTM", "NLTK", "RAG", "LLM APIs", "Power BI"],
+    blockchain: ["Solidity", "Blockchain Fundamentals", "Proof-of-Work"],
   },
   currentlyInterningAt: ["Developers Hub Corporation (Full Stack Developer Intern)", "Falcon Swift (Full Stack AI Engineer Intern)"],
-  launchedProjects: ["E-Commerce Website", "Nexus - Investor & Entrepreneur Platform", "Thesis Submission System"],
+  launchedProjects: [
+    "E-Commerce Website",
+    "Nexus - Investor & Entrepreneur Platform",
+    "Thesis Submission System",
+    "RAG Chatbot",
+    "AI Workspace",
+    "CryptoVision - Crypto Market AI Terminal",
+    "InfoStream AI - News Chatbot",
+  ],
   status: "Actively building & shipping full stack + AI powered projects",
   openTo: ["Remote Full Stack Roles", "AI/ML Engineering", "Internships & Junior Dev Positions"],
 };
@@ -40,6 +49,72 @@ const irsa = {
 <br/>
 
 ## 🚀 Featured Projects
+
+### 🧠 RAG Chatbot
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=irsaairshad&repo=RAG-Chatbot&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" />
+
+Retrieval-Augmented Generation chatbot with a Streamlit interface, pluggable LLM providers, and document-grounded question answering tools.
+
+| Layer      | Technology                  |
+|------------|------------------------------|
+| Interface  | Streamlit                    |
+| Core       | Python, RAG pipeline         |
+| Providers  | Multi-provider LLM support   |
+
+🔗 [Code](https://github.com/irsaairshad/RAG-Chatbot)
+
+<br clear="left"/>
+<br/>
+
+### 🗂️ AI Workspace
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=irsaairshad&repo=AI-WorkSpace&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" />
+
+Full stack AI-powered workspace app with a React client and a Python backend for multimodal and productivity features.
+
+| Layer     | Technology              |
+|-----------|--------------------------|
+| Frontend  | React.js                 |
+| Backend   | Python                   |
+
+🔗 [Code](https://github.com/irsaairshad/AI-WorkSpace)
+
+<br clear="left"/>
+<br/>
+
+### ◈ CryptoVision — Crypto Market AI Terminal
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=irsaairshad&repo=Crypto-chatbot&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" />
+
+Real-time cryptocurrency intelligence terminal with live Binance WebSocket streams, CoinGecko analytics, TradingView charts, and a Gemini-powered AI market assistant.
+
+| Layer     | Technology                          |
+|-----------|---------------------------------------|
+| Frontend  | HTML5, CSS3, JavaScript, TradingView  |
+| Backend   | Python, FastAPI, WebSockets           |
+| AI        | Google Gemini API                     |
+
+🔗 [Code](https://github.com/irsaairshad/Crypto-chatbot)
+
+<br clear="left"/>
+<br/>
+
+### 📰 InfoStream AI — News Chatbot
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=irsaairshad&repo=News-ChatBot&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" />
+
+Editorial-style, real-time news platform with live article feeds, a video stream, smart filtering, and an AI news copilot for querying headlines.
+
+| Layer     | Technology              |
+|-----------|--------------------------|
+| Frontend  | Next.js, TypeScript      |
+| Data      | Drizzle ORM               |
+
+🔗 [Code](https://github.com/irsaairshad/News-ChatBot)
+
+<br clear="left"/>
+<br/>
 
 ### 🛒 E-Commerce Website
 
@@ -92,11 +167,26 @@ Academic system for managing and tracking student thesis submissions.
 <br clear="left"/>
 <br/>
 
+## ⛓️ Blockchain Learning Projects
+
+Hands-on builds while studying blockchain fundamentals — consensus, blocks, hashing, and P2P sync — by working through two well-known educational blockchain implementations.
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=irsaairshad&repo=naivecoin-master&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=irsaairshad&repo=SavjeeCoin-master&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" />
+
+</div>
+
+🔗 [naivecoin-master](https://github.com/irsaairshad/naivecoin-master) &nbsp;•&nbsp; 🔗 [SavjeeCoin-master](https://github.com/irsaairshad/SavjeeCoin-master)
+
+<br/>
+
 ## 🛠️ Tech Stack
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,dart,php" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,dart,php,solidity" />
 
 **Frontend**
 <br/>
@@ -104,7 +194,7 @@ Academic system for managing and tracking student thesis submissions.
 
 **Backend / Infra**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,dotnet,django,flask" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,dotnet,django,flask" />
 
 **AI / Database**
 <br/>
@@ -112,7 +202,7 @@ Academic system for managing and tracking student thesis submissions.
 
 **Dev Tools**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
 
 <br/>
 

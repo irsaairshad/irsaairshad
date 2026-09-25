@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=220&section=header&text=Irsa%20Irshad&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=CS%20Student%20%7C%20Full%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=55&descSize=18" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Building+Full+Stack+Web+Apps;Building+RAG+%26+AI+Chatbots;Exploring+AI+%2F+ML+%2F+Blockchain;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Building+Full+Stack+Web+Apps;Building+RAG+%26+AI+Chatbots;Exploring+AI+%2F+ML+%2F+Blockchain;Currently+Interning+%40+Developers+Hub+%26+Falcon+Swift" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -52,7 +52,7 @@ const irsa = {
 
 ### 🧠 RAG Chatbot
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=irsaairshad&repo=RAG-Chatbot&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" />
+<img align="left" src="https://githubreadmestatsfast.vercel.app/api/pin/?username=irsaairshad&repo=RAG-Chatbot&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" />
 
 Retrieval-Augmented Generation chatbot with a Streamlit interface, pluggable LLM providers, and document-grounded question answering tools.
 
@@ -69,7 +69,7 @@ Retrieval-Augmented Generation chatbot with a Streamlit interface, pluggable LLM
 
 ### 🗂️ AI Workspace
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=irsaairshad&repo=AI-WorkSpace&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" />
+<img align="left" src="https://githubreadmestatsfast.vercel.app/api/pin/?username=irsaairshad&repo=AI-WorkSpace&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" />
 
 Full stack AI-powered workspace app with a React client and a Python backend for multimodal and productivity features.
 
@@ -85,7 +85,7 @@ Full stack AI-powered workspace app with a React client and a Python backend for
 
 ### ◈ CryptoVision — Crypto Market AI Terminal
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=irsaairshad&repo=Crypto-chatbot&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" />
+<img align="left" src="https://githubreadmestatsfast.vercel.app/api/pin/?username=irsaairshad&repo=Crypto-chatbot&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" />
 
 Real-time cryptocurrency intelligence terminal with live Binance WebSocket streams, CoinGecko analytics, TradingView charts, and a Gemini-powered AI market assistant.
 
@@ -102,7 +102,7 @@ Real-time cryptocurrency intelligence terminal with live Binance WebSocket strea
 
 ### 📰 InfoStream AI — News Chatbot
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=irsaairshad&repo=News-ChatBot&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" />
+<img align="left" src="https://githubreadmestatsfast.vercel.app/api/pin/?username=irsaairshad&repo=News-ChatBot&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" />
 
 Editorial-style, real-time news platform with live article feeds, a video stream, smart filtering, and an AI news copilot for querying headlines.
 
@@ -118,7 +118,7 @@ Editorial-style, real-time news platform with live article feeds, a video stream
 
 ### 🛒 E-Commerce Website
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=irsaairshad&repo=ecommerce-fullstack-design&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" />
+<img align="left" src="https://githubreadmestatsfast.vercel.app/api/pin/?username=irsaairshad&repo=ecommerce-fullstack-design&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" />
 
 Full stack e-commerce platform with product catalog, cart, and order flow.
 
@@ -135,7 +135,7 @@ Full stack e-commerce platform with product catalog, cart, and order flow.
 
 ### 🤝 Nexus — Investor & Entrepreneur Platform
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=irsaairshad&repo=nexus-backend&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" />
+<img align="left" src="https://githubreadmestatsfast.vercel.app/api/pin/?username=irsaairshad&repo=nexus-backend&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" />
 
 Collaboration platform connecting investors and entrepreneurs with real-time features and secure auth.
 
@@ -153,7 +153,7 @@ Collaboration platform connecting investors and entrepreneurs with real-time fea
 
 ### 🎓 Thesis Submission System
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=irsaairshad&repo=thesis_submission&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" />
+<img align="left" src="https://githubreadmestatsfast.vercel.app/api/pin/?username=irsaairshad&repo=thesis_submission&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" />
 
 Academic system for managing and tracking student thesis submissions.
 
@@ -173,8 +173,8 @@ Hands-on builds while studying blockchain fundamentals — consensus, blocks, ha
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=irsaairshad&repo=naivecoin-master&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=irsaairshad&repo=SavjeeCoin-master&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" />
+<img src="https://githubreadmestatsfast.vercel.app/api/pin/?username=irsaairshad&repo=naivecoin-master&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" />
+<img src="https://githubreadmestatsfast.vercel.app/api/pin/?username=irsaairshad&repo=SavjeeCoin-master&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc" />
 
 </div>
 
@@ -210,8 +210,8 @@ Hands-on builds while studying blockchain fundamentals — consensus, blocks, ha
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=irsaairshad&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irsaairshad&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" width="48%" />
+<img src="https://githubreadmestatsfast.vercel.app/api?username=irsaairshad&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9" width="48%" />
+<img src="https://githubreadmestatsfast.vercel.app/api/top-langs/?username=irsaairshad&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9" width="48%" />
 
 <br/>
 
